@@ -1,8 +1,6 @@
 {
   "type": "micro",
   "wake_word": "Hi James",
-  "author": "Andreas",
-  "website": "https://www.riechmann.nl/"
   "model": "https://raw.githubusercontent.com/ariechmann/wake-words/main/hi_james.tflite",
   "trained_languages": ["de"],
   "version": 2,
