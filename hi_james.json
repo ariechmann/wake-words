@@ -1,7 +1,9 @@
 {
   "type": "micro",
   "wake_word": "Hi James",
-  "model": "hi_james.tflite",
+  "author": "Andreas",
+  "website": "https://github.com/ariechmann/wake-words",
+  "model": "https://raw.githubusercontent.com/ariechmann/wake-words/main/hi_james.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
