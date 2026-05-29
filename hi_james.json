@@ -3,7 +3,7 @@
   "wake_word": "Hi James",
   "author": "Andreas",
   "website": "",
-  "model": "hi_james.tflite",
+  "model": "https://raw.githubusercontent.com/ariechmann/wake-words/main/hi_james.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
